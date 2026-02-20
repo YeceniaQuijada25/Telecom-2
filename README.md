@@ -26,10 +26,10 @@ Interpretar los resultados, incluyendo la importancia de las variables.
 •
 Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
 
-## 🛠️ Preparación de los Datos:
+## 🛠️ Preparación de los Datos 🛠️
 
-## 🎯 Correlación y Selección de Variables
+## 🎯 Correlación y Selección de Variables 🎯
 
-## 🤖 Modelado Predictivo
+## 🤖 Modelado Predictivo 🤖
 
 
