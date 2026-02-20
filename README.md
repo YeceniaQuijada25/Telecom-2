@@ -32,4 +32,6 @@ Crear una conclusión estratégica señalando los principales factores que influ
 
 ## 🤖 Modelado Predictivo
 
+## 📖 Informe
+
 
