@@ -1,7 +1,7 @@
 # Telecom-2
 Desarrollo de modelos predictivos para la empresa Telecom X, aplicando Machine Learning.
 
-##💡 Descripción del proyecto 💡
+## 💡 Descripción del proyecto 💡
 
 🎯 Misión
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
