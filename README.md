@@ -5,6 +5,7 @@ Desarrollo de modelos predictivos para la empresa Telecom X, aplicando Machine L
 
 🎯 Misión
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+
 🧠 Objetivos del Desafío
 
 •
@@ -24,3 +25,5 @@ Interpretar los resultados, incluyendo la importancia de las variables.
 
 •
 Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+
+## 🛠️ Preparación de los Datos:
