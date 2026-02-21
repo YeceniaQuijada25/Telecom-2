@@ -30,7 +30,11 @@ Crear una conclusión estratégica señalando los principales factores que influ
 
 ## 🎯 Correlación y Selección de Variables 
 
+<img src="img/correlacion.jpg" alt="Matriz correlación">
+
 ## 🤖 Modelado Predictivo
+
+<img src="img/matriz.jpg" alt="Matriz de confusión">
 
 ## 📖 Informe
 
