@@ -1,7 +1,7 @@
 # Telecom-2
 Desarrollo de modelos predictivos para la empresa Telecom X, aplicando Machine Learning.
 
-## 💡 Descripción del proyecto 💡
+## 💡 Descripción del proyecto 
 
 🎯 Misión
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
@@ -28,6 +28,8 @@ Crear una conclusión estratégica señalando los principales factores que influ
 
 ## 🛠️ Preparación de los Datos 
 
+<img src="img/boxplot.jpg" alt="Gráficos">
+
 ## 🎯 Correlación y Selección de Variables 
 
 <img src="img/correlacion.jpg" alt="Matriz correlación">
@@ -48,7 +50,7 @@ Análisis de la importancia de las variables
 
 4• Servicios adicionales: Reduce el riesgo.
 
-5• InternetService: Los clientes con fibra óptica muestran mayor prospección a cancelar que los que tienen DSL.
+5• InternetService: Los clientes con fibra óptica muestran mayor prospección a cancelar que los que 4en DSL.
 
 6• Métodos de pagos: Pagos automáticos con transferencia bancaria muestran menos churn.
 
