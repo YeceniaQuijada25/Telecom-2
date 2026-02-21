@@ -37,6 +37,7 @@ Crear una conclusión estratégica señalando los principales factores que influ
 Análisis de la importancia de las variables
 
 1• Tenure(Antigüedad): Clientes con poca antigüedad tiene mucho más riesgo de cancelar.
+
 2•ChargesMonthly( Cargo mensual): A mayor cargo mensual mayor riesgo de cancelar.
 
 3•Tipo de contrato
